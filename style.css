@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+input,
+textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 10px;
+}
+.notif {
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.sukses {
+  background-color: #d4edda;
+  color: #155724;
+}
+.gagal {
+  background-color: #f8d7da;
+  color: #721c24;
+}
